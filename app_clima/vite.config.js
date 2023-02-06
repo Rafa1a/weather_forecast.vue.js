@@ -6,3 +6,4 @@ export default defineConfig({
   dase: "/weather_forecast.vue.js",
   plugins: [vue()],
 })
+ 
